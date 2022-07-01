@@ -12,7 +12,7 @@ Bibliothèque Javascript
 - npx create-react-app nom-du-projet
 
 # Dans VS
-Pour ouvir le projet
+Pour ouvrir le projet
 
 - code .
 
@@ -43,4 +43,8 @@ Raccourci
 
 # Bibliothèque utiles
 
-- npm i -s react-router-dom sass
+- npm i react-router-dom
+        react-dom
+        sass
+        axios
+
