@@ -1,11 +1,16 @@
 # REACT
 
+Installer node js et npm
+
+https://nodejs.org/en/download/
+
 Bibliothèque Javascript
 
 ## Commandes utile
 
 - node -v
 - npm -v
+- npm install -g create-react-app  Cette commande installe Create React App sur votre système, ce qui permet de l’utiliser dans n’importe quel répertoire.
 
 # Créer un nouveau projet
 
